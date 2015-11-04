@@ -9,6 +9,7 @@ var data = [
   { regexes: ["cue @?(jelle|verbeeckx|fousa|jaakske)"], urls: require("./data/cue.json")["fousa"] },
   { regexes: ["cue @?(bob|bab|bib|boob)"], urls: require("./data/cue.json")["reprazent"] },
   { regexes: ["cue @?(pcbob)"], urls: require("./data/cue.json")["pcbob"] },
+  { regexes: ["cue @?(santabob|santa|christmas|kerstman)"], urls: require("./data/cue.json")["santabob"] },
   { regexes: ["cue @?(soffe|sophie|poeziemauw)"], urls: require("./data/cue.json")["soffe"] },
   { regexes: ["cue @?(atog|koen)"], urls: require("./data/cue.json")["atog"] },
   { regexes: ["cue @?(evert)"], urls: require("./data/cue.json")["evert"] },
